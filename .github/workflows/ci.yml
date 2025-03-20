@@ -1,7 +1,6 @@
 name: my first hello with githubs actions
 
 on: {push}
-
   jobs:
     runs-on: ubuntu-latest
     steps:
